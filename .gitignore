@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment Variables
+.env
+backend/.env
+
+# Local Data
+backend/recent_searches.json
+
+# Build files
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
